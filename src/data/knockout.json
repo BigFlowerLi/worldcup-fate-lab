@@ -56,12 +56,12 @@
     "stage": "round-of-32",
     "homeId": "I1",
     "awayId": "F3",
-    "homeScore": null,
-    "awayScore": null,
+    "homeScore": 3,
+    "awayScore": 0,
     "homePenalty": null,
     "awayPenalty": null,
-    "winnerId": null,
-    "kickoff": "6/30 待赛",
+    "winnerId": "I1",
+    "kickoff": "6/30 已完赛",
     "note": "MetLife Stadium"
   },
   {
@@ -69,12 +69,12 @@
     "stage": "round-of-32",
     "homeId": "E3",
     "awayId": "I4",
-    "homeScore": null,
-    "awayScore": null,
+    "homeScore": 1,
+    "awayScore": 2,
     "homePenalty": null,
     "awayPenalty": null,
-    "winnerId": null,
-    "kickoff": "6/30 待赛",
+    "winnerId": "I4",
+    "kickoff": "6/30 已完赛",
     "note": "AT&T Stadium"
   },
   {
@@ -82,12 +82,12 @@
     "stage": "round-of-32",
     "homeId": "A1",
     "awayId": "E4",
-    "homeScore": null,
-    "awayScore": null,
+    "homeScore": 2,
+    "awayScore": 0,
     "homePenalty": null,
     "awayPenalty": null,
-    "winnerId": null,
-    "kickoff": "6/30 待赛",
+    "winnerId": "A1",
+    "kickoff": "6/30 已完赛",
     "note": "Estadio Banorte"
   },
   {
@@ -219,5 +219,31 @@
     "winnerId": null,
     "kickoff": "7/4 待赛",
     "note": "NRG Stadium"
+  },
+  {
+    "matchNo": 90,
+    "stage": "round-of-16",
+    "homeId": "D2",
+    "awayId": "I1",
+    "homeScore": null,
+    "awayScore": null,
+    "homePenalty": null,
+    "awayPenalty": null,
+    "winnerId": null,
+    "kickoff": "7/4 待赛",
+    "note": "Lincoln Financial Field"
+  },
+  {
+    "matchNo": 91,
+    "stage": "round-of-16",
+    "homeId": "C1",
+    "awayId": "I4",
+    "homeScore": null,
+    "awayScore": null,
+    "homePenalty": null,
+    "awayPenalty": null,
+    "winnerId": null,
+    "kickoff": "7/5 待赛",
+    "note": "MetLife Stadium"
   }
 ]
