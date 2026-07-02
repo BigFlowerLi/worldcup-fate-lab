@@ -95,12 +95,12 @@
     "stage": "round-of-32",
     "homeId": "L1",
     "awayId": "K2",
-    "homeScore": null,
-    "awayScore": null,
+    "homeScore": 2,
+    "awayScore": 1,
     "homePenalty": null,
     "awayPenalty": null,
-    "winnerId": null,
-    "kickoff": "7/1 待赛",
+    "winnerId": "L1",
+    "kickoff": "7/1 已完赛",
     "note": "Mercedes-Benz Stadium"
   },
   {
@@ -108,12 +108,12 @@
     "stage": "round-of-32",
     "homeId": "D1",
     "awayId": "B2",
-    "homeScore": null,
-    "awayScore": null,
+    "homeScore": 2,
+    "awayScore": 0,
     "homePenalty": null,
     "awayPenalty": null,
-    "winnerId": null,
-    "kickoff": "7/1 待赛",
+    "winnerId": "D1",
+    "kickoff": "7/1 已完赛",
     "note": "Levi's Stadium"
   },
   {
@@ -121,12 +121,12 @@
     "stage": "round-of-32",
     "homeId": "G1",
     "awayId": "I2",
-    "homeScore": null,
-    "awayScore": null,
+    "homeScore": 3,
+    "awayScore": 2,
     "homePenalty": null,
     "awayPenalty": null,
-    "winnerId": null,
-    "kickoff": "7/1 待赛",
+    "winnerId": "G1",
+    "kickoff": "7/1 已完赛",
     "note": "Lumen Field"
   },
   {
@@ -245,5 +245,31 @@
     "winnerId": null,
     "kickoff": "7/5 待赛",
     "note": "MetLife Stadium"
+  },
+  {
+    "matchNo": 92,
+    "stage": "round-of-16",
+    "homeId": "A1",
+    "awayId": "L1",
+    "homeScore": null,
+    "awayScore": null,
+    "homePenalty": null,
+    "awayPenalty": null,
+    "winnerId": null,
+    "kickoff": "7/5 待赛",
+    "note": "Estadio Banorte"
+  },
+  {
+    "matchNo": 93,
+    "stage": "round-of-16",
+    "homeId": "D1",
+    "awayId": "G1",
+    "homeScore": null,
+    "awayScore": null,
+    "homePenalty": null,
+    "awayPenalty": null,
+    "winnerId": null,
+    "kickoff": "7/6 待赛",
+    "note": "Lumen Field"
   }
 ]
