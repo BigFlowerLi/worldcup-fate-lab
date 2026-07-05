@@ -212,12 +212,12 @@
     "stage": "round-of-16",
     "homeId": "B1",
     "awayId": "C2",
-    "homeScore": null,
-    "awayScore": null,
+    "homeScore": 0,
+    "awayScore": 3,
     "homePenalty": null,
     "awayPenalty": null,
-    "winnerId": null,
-    "kickoff": "7/4 待赛",
+    "winnerId": "C2",
+    "kickoff": "7/4 已完赛",
     "note": "NRG Stadium"
   },
   {
@@ -225,12 +225,12 @@
     "stage": "round-of-16",
     "homeId": "D2",
     "awayId": "I1",
-    "homeScore": null,
-    "awayScore": null,
+    "homeScore": 0,
+    "awayScore": 1,
     "homePenalty": null,
     "awayPenalty": null,
-    "winnerId": null,
-    "kickoff": "7/4 待赛",
+    "winnerId": "I1",
+    "kickoff": "7/4 已完赛",
     "note": "Lincoln Financial Field"
   },
   {
@@ -310,5 +310,18 @@
     "winnerId": null,
     "kickoff": "7/7 待赛",
     "note": "BC Place"
+  },
+  {
+    "matchNo": 97,
+    "stage": "quarterfinal",
+    "homeId": "I1",
+    "awayId": "C2",
+    "homeScore": null,
+    "awayScore": null,
+    "homePenalty": null,
+    "awayPenalty": null,
+    "winnerId": null,
+    "kickoff": "7/9 待赛",
+    "note": "Gillette Stadium"
   }
 ]
