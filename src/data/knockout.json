@@ -238,12 +238,12 @@
     "stage": "round-of-16",
     "homeId": "C1",
     "awayId": "I4",
-    "homeScore": null,
-    "awayScore": null,
+    "homeScore": 1,
+    "awayScore": 2,
     "homePenalty": null,
     "awayPenalty": null,
-    "winnerId": null,
-    "kickoff": "7/5 待赛",
+    "winnerId": "I4",
+    "kickoff": "7/5 已完赛",
     "note": "MetLife Stadium"
   },
   {
@@ -251,12 +251,12 @@
     "stage": "round-of-16",
     "homeId": "A1",
     "awayId": "L1",
-    "homeScore": null,
-    "awayScore": null,
+    "homeScore": 2,
+    "awayScore": 3,
     "homePenalty": null,
     "awayPenalty": null,
-    "winnerId": null,
-    "kickoff": "7/5 待赛",
+    "winnerId": "L1",
+    "kickoff": "7/5 已完赛",
     "note": "Estadio Banorte"
   },
   {
@@ -323,5 +323,18 @@
     "winnerId": null,
     "kickoff": "7/9 待赛",
     "note": "Gillette Stadium"
+  },
+  {
+    "matchNo": 98,
+    "stage": "quarterfinal",
+    "homeId": "I4",
+    "awayId": "L1",
+    "homeScore": null,
+    "awayScore": null,
+    "homePenalty": null,
+    "awayPenalty": null,
+    "winnerId": null,
+    "kickoff": "7/11 待赛",
+    "note": "Hard Rock Stadium"
   }
 ]
