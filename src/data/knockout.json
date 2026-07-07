@@ -264,12 +264,12 @@
     "stage": "round-of-16",
     "homeId": "D1",
     "awayId": "G1",
-    "homeScore": null,
-    "awayScore": null,
+    "homeScore": 1,
+    "awayScore": 4,
     "homePenalty": null,
     "awayPenalty": null,
-    "winnerId": null,
-    "kickoff": "7/6 待赛",
+    "winnerId": "G1",
+    "kickoff": "7/6 已完赛",
     "note": "Lumen Field"
   },
   {
@@ -277,12 +277,12 @@
     "stage": "round-of-16",
     "homeId": "K1",
     "awayId": "H1",
-    "homeScore": null,
-    "awayScore": null,
+    "homeScore": 0,
+    "awayScore": 1,
     "homePenalty": null,
     "awayPenalty": null,
-    "winnerId": null,
-    "kickoff": "7/6 待赛",
+    "winnerId": "H1",
+    "kickoff": "7/6 已完赛",
     "note": "AT&T Stadium"
   },
   {
@@ -336,5 +336,18 @@
     "winnerId": null,
     "kickoff": "7/11 待赛",
     "note": "Hard Rock Stadium"
+  },
+  {
+    "matchNo": 99,
+    "stage": "quarterfinal",
+    "homeId": "H1",
+    "awayId": "G1",
+    "homeScore": null,
+    "awayScore": null,
+    "homePenalty": null,
+    "awayPenalty": null,
+    "winnerId": null,
+    "kickoff": "7/10 待赛",
+    "note": "SoFi Stadium"
   }
 ]
