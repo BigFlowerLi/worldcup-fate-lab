@@ -290,12 +290,12 @@
     "stage": "round-of-16",
     "homeId": "J1",
     "awayId": "G2",
-    "homeScore": null,
-    "awayScore": null,
+    "homeScore": 3,
+    "awayScore": 2,
     "homePenalty": null,
     "awayPenalty": null,
-    "winnerId": null,
-    "kickoff": "7/7 待赛",
+    "winnerId": "J1",
+    "kickoff": "7/7 已完赛",
     "note": "Mercedes-Benz Stadium"
   },
   {
@@ -303,12 +303,12 @@
     "stage": "round-of-16",
     "homeId": "B4",
     "awayId": "K4",
-    "homeScore": null,
-    "awayScore": null,
-    "homePenalty": null,
-    "awayPenalty": null,
-    "winnerId": null,
-    "kickoff": "7/7 待赛",
+    "homeScore": 0,
+    "awayScore": 0,
+    "homePenalty": 4,
+    "awayPenalty": 3,
+    "winnerId": "B4",
+    "kickoff": "7/7 已完赛",
     "note": "BC Place"
   },
   {
@@ -349,5 +349,18 @@
     "winnerId": null,
     "kickoff": "7/10 待赛",
     "note": "SoFi Stadium"
+  },
+  {
+    "matchNo": 100,
+    "stage": "quarterfinal",
+    "homeId": "J1",
+    "awayId": "B4",
+    "homeScore": null,
+    "awayScore": null,
+    "homePenalty": null,
+    "awayPenalty": null,
+    "winnerId": null,
+    "kickoff": "7/11 待赛",
+    "note": "GEHA Field at Arrowhead Stadium"
   }
 ]
