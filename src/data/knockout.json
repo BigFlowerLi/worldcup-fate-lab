@@ -316,12 +316,12 @@
     "stage": "quarterfinal",
     "homeId": "I1",
     "awayId": "C2",
-    "homeScore": null,
-    "awayScore": null,
+    "homeScore": 2,
+    "awayScore": 0,
     "homePenalty": null,
     "awayPenalty": null,
-    "winnerId": null,
-    "kickoff": "7/9 待赛",
+    "winnerId": "I1",
+    "kickoff": "7/9 已完赛",
     "note": "Gillette Stadium"
   },
   {
