@@ -368,12 +368,12 @@
     "stage": "semifinal",
     "homeId": "I1",
     "awayId": "H1",
-    "homeScore": null,
-    "awayScore": null,
+    "homeScore": 0,
+    "awayScore": 2,
     "homePenalty": null,
     "awayPenalty": null,
-    "winnerId": null,
-    "kickoff": "7/14 待赛",
+    "winnerId": "H1",
+    "kickoff": "7/14 已完赛",
     "note": "AT&T Stadium"
   },
   {
