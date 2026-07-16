@@ -381,12 +381,25 @@
     "stage": "semifinal",
     "homeId": "L1",
     "awayId": "J1",
+    "homeScore": 1,
+    "awayScore": 2,
+    "homePenalty": null,
+    "awayPenalty": null,
+    "winnerId": "J1",
+    "kickoff": "7/15 已完赛",
+    "note": "Mercedes-Benz Stadium"
+  },
+  {
+    "matchNo": 103,
+    "stage": "final",
+    "homeId": "H1",
+    "awayId": "J1",
     "homeScore": null,
     "awayScore": null,
     "homePenalty": null,
     "awayPenalty": null,
     "winnerId": null,
-    "kickoff": "7/15 待赛",
-    "note": "Mercedes-Benz Stadium"
+    "kickoff": "7/19 待赛",
+    "note": "MetLife Stadium"
   }
 ]
