@@ -394,12 +394,12 @@
     "stage": "final",
     "homeId": "H1",
     "awayId": "J1",
-    "homeScore": null,
-    "awayScore": null,
+    "homeScore": 1,
+    "awayScore": 0,
     "homePenalty": null,
     "awayPenalty": null,
-    "winnerId": null,
-    "kickoff": "7/19 待赛",
+    "winnerId": "H1",
+    "kickoff": "7/19 已完赛",
     "note": "MetLife Stadium"
   }
 ]
