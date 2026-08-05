@@ -267,4 +267,4 @@ export function createInitialMatches(): Match[] {
 }
 
 export const demoNotice =
-  "静态数据已通过一键脚本更新至 2026-08-04：小组赛比分与淘汰赛赛程/结果已分开维护。";
+  "静态数据已通过一键脚本更新至 2026-08-05：小组赛比分与淘汰赛赛程/结果已分开维护。";
